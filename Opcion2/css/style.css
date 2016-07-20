@@ -1,0 +1,26 @@
+ 
+ div>div>div {
+
+	background-color: blue;
+	padding: 25px 50px;
+}	
+    
+div>div {
+
+	background-color: green;
+	margin: 20px 10px 20px 10px;
+	padding: 30px;
+}
+
+#caja {
+	background-color: red;
+	padding: 20px;
+
+}
+
+p {
+   
+   border: 10px black dashed;
+   background-color: white;
+   padding: 15px;
+}

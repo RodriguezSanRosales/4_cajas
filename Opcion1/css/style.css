@@ -1,0 +1,26 @@
+body {
+	background-color: blue;
+}
+
+div {
+	background-color: green;
+	border-color: purple;
+	border-style: solid;
+	border: 40px 10px 50px 5px;
+	padding: 20px 10px 20px 10px;
+	height: 60px;
+	width: 120px;
+    
+}
+
+
+p {
+
+	padding: 3px 5px;
+	background-color: white;
+    border-style: dashed;
+    
+
+
+}
+
